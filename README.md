@@ -1,1 +1,3 @@
 This music player project leverages HTML, CSS, and JavaScript to create an interactive and visually appealing interface. It utilizes audio elements to load and play music tracks from a predefined list, providing users with control over playback and volume. The player's design incorporates dynamic elements, such as track information display and progress bars, to enhance user engagement. Additionally, the project demonstrates the use of event listeners to respond to user actions, ensuring a responsive and intuitive user experience. Overall, the project showcases the integration of multimedia elements in web development, offering a functional and enjoyable music streaming experience.
+
+Author - Kaduluri Harshith
